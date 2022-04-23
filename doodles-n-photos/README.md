@@ -1,5 +1,12 @@
 # Notes
+
 - prolly shoulda just used `create-react-app` before creating github project
+
+# Todo
+
+- [x] 3x3 grid for pictures
+  - images vary in size
+  - manual img elements, need to list-ify (aka abstracted and refactored)
 
 # Getting Started with Create React App
 
