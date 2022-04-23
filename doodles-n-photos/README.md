@@ -1,6 +1,7 @@
 # Notes
 
 - prolly shoulda just used `create-react-app` before creating github project
+- gh-pages `deploy` runs `predeploy` under the hood, and build the react app
 
 # Todo
 
@@ -8,6 +9,9 @@
   - images vary in size
   - manual img elements, need to list-ify (aka abstracted and refactored)
 - [ ] publish to GitHub pages
+
+# dependencies
+- `$ npm install gh-pages --save-dev`
 
 # Getting Started with Create React App
 
