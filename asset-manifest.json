@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/doodlesNphotos/static/css/main.5338a920.css",
-    "main.js": "/doodlesNphotos/static/js/main.433e6df2.js",
+    "main.css": "/doodlesNphotos/static/css/main.ce86518d.css",
+    "main.js": "/doodlesNphotos/static/js/main.9947ba64.js",
     "static/media/9.png": "/doodlesNphotos/static/media/9.21705307a6057746d06a.png",
     "static/media/7.PNG": "/doodlesNphotos/static/media/7.da7233bf10337159bb8c.PNG",
     "static/media/5.PNG": "/doodlesNphotos/static/media/5.08d9241d36a772e27159.PNG",
@@ -10,13 +10,14 @@
     "static/media/2.PNG": "/doodlesNphotos/static/media/2.e46ebe1feae9d6a0d390.PNG",
     "static/media/8.PNG": "/doodlesNphotos/static/media/8.498ab70745808f25d5b4.PNG",
     "static/media/3.PNG": "/doodlesNphotos/static/media/3.a1e6d0c955119ce143b9.PNG",
+    "static/media/title.png": "/doodlesNphotos/static/media/title.1baca74ca4b9657eaa9b.png",
     "static/media/1.JPG": "/doodlesNphotos/static/media/1.022e74a4c55aecccda73.JPG",
     "index.html": "/doodlesNphotos/index.html",
-    "main.5338a920.css.map": "/doodlesNphotos/static/css/main.5338a920.css.map",
-    "main.433e6df2.js.map": "/doodlesNphotos/static/js/main.433e6df2.js.map"
+    "main.ce86518d.css.map": "/doodlesNphotos/static/css/main.ce86518d.css.map",
+    "main.9947ba64.js.map": "/doodlesNphotos/static/js/main.9947ba64.js.map"
   },
   "entrypoints": [
-    "static/css/main.5338a920.css",
-    "static/js/main.433e6df2.js"
+    "static/css/main.ce86518d.css",
+    "static/js/main.9947ba64.js"
   ]
 }
