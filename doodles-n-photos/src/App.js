@@ -3,11 +3,13 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <div className="header">
-        <img src={require("./assets/title.png")} alt="doodles and photos title" />
-      </div>
-
       <div className="grid-container">
+        <div className="header">
+          <img
+            src={require("./assets/title.png")}
+            alt="doodles and photos title"
+          />
+        </div>
         <div className="image-card">
           <img src={require("./assets/1.JPG")} alt="1" />
         </div>
