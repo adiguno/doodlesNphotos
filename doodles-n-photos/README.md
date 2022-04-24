@@ -8,9 +8,10 @@
 - [x] 3x3 grid for pictures
   - images vary in size
   - manual img elements, need to list-ify (aka abstracted and refactored)
-- [ ] publish to GitHub pages
+- [x] publish to GitHub pages
 
 # dependencies
+
 - `$ npm install gh-pages --save-dev`
 
 # Getting Started with Create React App
