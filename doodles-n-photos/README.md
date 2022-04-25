@@ -10,6 +10,7 @@
   - manual img elements, need to list-ify (aka abstracted and refactored)
 - [x] publish to GitHub pages
 - [ ] add video/gif play on image hover
+  - [ ] style it correctly
 
 # dependencies
 
