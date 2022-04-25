@@ -33,18 +33,63 @@ function App() {
         </div>
         <div className="image-card">
           <img src={require("./assets/flam.PNG")} alt="2" />
+          <video
+            loop
+            preload='none'
+            muted
+            onMouseOver={handleOnMouseOver}
+            onMouseOut={handleOnMouseOut}>
+              <source src={require("./assets/Flam.mp4")} 
+                type="video/mp4"/>
+            </video>
         </div>
         <div className="image-card">
           <img src={require("./assets/penguin.PNG")} alt="3" />
+          <video
+            loop
+            preload='none'
+            muted
+            onMouseOver={handleOnMouseOver}
+            onMouseOut={handleOnMouseOut}>
+              <source src={require("./assets/Penguin.mp4")} 
+                type="video/mp4"/>
+            </video>
         </div>
         <div className="image-card">
           <img src={require("./assets/Landscape.png")} alt="4" />
+          <video
+            loop
+            preload='none'
+            muted
+            onMouseOver={handleOnMouseOver}
+            onMouseOut={handleOnMouseOut}>
+              <source src={require("./assets/Landscape.mp4")} 
+                type="video/mp4"/>
+            </video>
         </div>
         <div className="image-card">
           <img src={require("./assets/powder.PNG")} alt="5" />
+          <video
+            loop
+            preload='none'
+            muted
+            onMouseOver={handleOnMouseOver}
+            onMouseOut={handleOnMouseOut}>
+              <source src={require("./assets/Powder.mp4")} 
+                type="video/mp4"/>
+            </video>
         </div>
         <div className="image-card">
           <img src={require("./assets/portrait.JPG")} alt="6" />
+          <video
+            loop
+            preload='none'
+            muted
+            onMouseOver={handleOnMouseOver}
+            onMouseOut={handleOnMouseOut}>
+              <source src={require("./assets/portrait.mp4")} 
+                type="video/mp4"/>
+            </video>
         </div>
       </div>
     </div>

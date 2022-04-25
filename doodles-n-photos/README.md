@@ -9,8 +9,8 @@
   - images vary in size
   - manual img elements, need to list-ify (aka abstracted and refactored)
 - [x] publish to GitHub pages
-- [ ] add video/gif play on image hover
-  - [ ] style it correctly
+- [x] add video/gif play on image hover
+  - [x] style it correctly
 
 # dependencies
 
