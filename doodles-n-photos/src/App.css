@@ -31,7 +31,13 @@
 .image-card {
   padding-left: 1em;
   padding-right: 1em;
-  
+}
+.image-card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+.image-card:hover .video {
+  opacity: 100;
 }
 
 /* can't set fixed height, image stretching */
@@ -43,6 +49,14 @@
   border-radius: 1em;
   background: #a8e2ff;
   box-shadow: 20px 20px 60px #8fc0d9, -20px -20px 60px #c1ffff;
+}
+
+video {
+  opacity: 0;
+  width: 100%;
+  object-fit: cover; /* zoom/crop instead of streching*/
+  /* min-width: none; */
+  /* min-height: none; */
 }
 
 /* neumorphism

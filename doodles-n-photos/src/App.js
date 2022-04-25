@@ -1,6 +1,14 @@
 import "./App.css";
 
 function App() {
+  
+  const handleOnMouseOver = (e) => {
+    e.currentTarget.play()
+  }
+  const handleOnMouseOut = (e) => {
+    e.currentTarget.pause()
+  }
+
   return (
     <div className="App">
       <div className="grid-container">
@@ -10,8 +18,18 @@ function App() {
             alt="doodles and photos title"
           />
         </div>
+
         <div className="image-card">
           <img src={require("./assets/doge.PNG")} alt="1" />
+          <video
+            loop
+            preload='none'
+            muted
+            onMouseOver={handleOnMouseOver}
+            onMouseOut={handleOnMouseOut}>
+              <source src={require("./assets/Doge.mp4")} 
+                type="video/mp4"/>
+            </video>
         </div>
         <div className="image-card">
           <img src={require("./assets/flam.PNG")} alt="2" />
@@ -31,6 +49,8 @@ function App() {
       </div>
     </div>
   );
+
+
 }
 
 export default App;
