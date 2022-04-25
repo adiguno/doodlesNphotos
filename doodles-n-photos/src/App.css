@@ -2,6 +2,7 @@
   background-color: #a8e2ff;
   padding-left: 10em;
   padding-right: 10em;
+  padding-top: 1em;
 }
 
 .header {
@@ -28,7 +29,9 @@
 }
 
 .image-card {
-  padding: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  
 }
 
 /* can't set fixed height, image stretching */
