@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doodlesNphotos/static/css/main.ca3d8abd.css",
+    "main.css": "/doodlesNphotos/static/css/main.1e7ff1eb.css",
     "main.js": "/doodlesNphotos/static/js/main.33a49b48.js",
     "static/media/Powder.mp4": "/doodlesNphotos/static/media/Powder.bb7f82070c2443861a46.mp4",
     "static/media/Flam.mp4": "/doodlesNphotos/static/media/Flam.2f0021cbcf7bb4fdca27.mp4",
@@ -16,11 +16,11 @@
     "static/media/title.png": "/doodlesNphotos/static/media/title.1baca74ca4b9657eaa9b.png",
     "static/media/portrait.JPG": "/doodlesNphotos/static/media/portrait.022e74a4c55aecccda73.JPG",
     "index.html": "/doodlesNphotos/index.html",
-    "main.ca3d8abd.css.map": "/doodlesNphotos/static/css/main.ca3d8abd.css.map",
+    "main.1e7ff1eb.css.map": "/doodlesNphotos/static/css/main.1e7ff1eb.css.map",
     "main.33a49b48.js.map": "/doodlesNphotos/static/js/main.33a49b48.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca3d8abd.css",
+    "static/css/main.1e7ff1eb.css",
     "static/js/main.33a49b48.js"
   ]
 }
