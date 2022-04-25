@@ -11,6 +11,7 @@
 - [x] publish to GitHub pages
 - [x] add video/gif play on image hover
   - [x] style it correctly
+- [ ] full-sized image popup?
 
 # dependencies
 
