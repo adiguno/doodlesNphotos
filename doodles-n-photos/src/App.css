@@ -6,8 +6,15 @@
 
 .header {
   background-color: #a8e2ff;
+  grid-column-start: 1;
+  grid-column-end: 4;
+
+  border-radius: 1em;
+  background: #a8e2ff;
+  box-shadow: 20px 20px 60px #8fc0d9, -20px -20px 60px #c1ffff;
 }
 .header img {
+  /* grid-area: header; */
   width: 100%;
   height: 100%;
   object-fit: cover; /* zoom/crop instead of streching*/
@@ -16,6 +23,8 @@
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr; /* 3 columns */
+  /* gap: <grid-row-gap> <grid-column-gap>; */
+  gap: 2em 1em;
 }
 
 .image-card {
