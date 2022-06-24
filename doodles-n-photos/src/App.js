@@ -20,7 +20,7 @@ function App() {
         </div>
 
         <div className="image-card">
-          <img src={require("./assets/doge.PNG")} alt="1" />
+          <img src={require("./assets/1.PNG")} alt="1" />
           <video
             loop
             preload='none'
@@ -32,7 +32,7 @@ function App() {
             </video>
         </div>
         <div className="image-card">
-          <img src={require("./assets/flam.PNG")} alt="2" />
+          <img src={require("./assets/2.PNG")} alt="2" />
           <video
             loop
             preload='none'
@@ -44,7 +44,7 @@ function App() {
             </video>
         </div>
         <div className="image-card">
-          <img src={require("./assets/penguin.PNG")} alt="3" />
+          <img src={require("./assets/3.PNG")} alt="3" />
           <video
             loop
             preload='none'
@@ -56,7 +56,7 @@ function App() {
             </video>
         </div>
         <div className="image-card">
-          <img src={require("./assets/Landscape.png")} alt="4" />
+          <img src={require("./assets/4.PNG")} alt="4" />
           <video
             loop
             preload='none'
@@ -68,7 +68,7 @@ function App() {
             </video>
         </div>
         <div className="image-card">
-          <img src={require("./assets/powder.PNG")} alt="5" />
+          <img src={require("./assets/5.PNG")} alt="5" />
           <video
             loop
             preload='none'
@@ -80,7 +80,7 @@ function App() {
             </video>
         </div>
         <div className="image-card">
-          <img src={require("./assets/portrait.JPG")} alt="6" />
+          <img src={require("./assets/6.PNG")} alt="6" />
           <video
             loop
             preload='none'
