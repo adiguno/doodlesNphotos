@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/doodlesNphotos/static/css/main.1e7ff1eb.css",
-    "main.js": "/doodlesNphotos/static/js/main.33a49b48.js",
+    "main.js": "/doodlesNphotos/static/js/main.82940e03.js",
     "static/media/Powder.mp4": "/doodlesNphotos/static/media/Powder.bb7f82070c2443861a46.mp4",
     "static/media/Flam.mp4": "/doodlesNphotos/static/media/Flam.2f0021cbcf7bb4fdca27.mp4",
     "static/media/Landscape.mp4": "/doodlesNphotos/static/media/Landscape.e8335fc3bafc78dff30b.mp4",
     "static/media/portrait.mp4": "/doodlesNphotos/static/media/portrait.9b0d7affc3e1d596ec10.mp4",
     "static/media/Penguin.mp4": "/doodlesNphotos/static/media/Penguin.c13b3f66a15559b4cacb.mp4",
-    "static/media/powder.PNG": "/doodlesNphotos/static/media/powder.da7233bf10337159bb8c.PNG",
     "static/media/Doge.mp4": "/doodlesNphotos/static/media/Doge.165543d997eda07eaa0f.mp4",
-    "static/media/flam.PNG": "/doodlesNphotos/static/media/flam.08d9241d36a772e27159.PNG",
-    "static/media/Landscape.png": "/doodlesNphotos/static/media/Landscape.973920809f50026b3cb7.png",
-    "static/media/penguin.PNG": "/doodlesNphotos/static/media/penguin.192b59920b8b5c88b020.PNG",
-    "static/media/doge.PNG": "/doodlesNphotos/static/media/doge.dcdfb88c0faa4fcb3c75.PNG",
+    "static/media/6.PNG": "/doodlesNphotos/static/media/6.7209b912ebb2ab08c5c9.PNG",
+    "static/media/2.PNG": "/doodlesNphotos/static/media/2.da7058691e7ac8791cfb.PNG",
+    "static/media/3.PNG": "/doodlesNphotos/static/media/3.3554e344d367a5deac53.PNG",
+    "static/media/4.PNG": "/doodlesNphotos/static/media/4.19a363d9deb502b9285c.PNG",
+    "static/media/1.PNG": "/doodlesNphotos/static/media/1.dc6c9a35fb5fb25a68c1.PNG",
+    "static/media/5.PNG": "/doodlesNphotos/static/media/5.6c8dde5dc8b89254fdb6.PNG",
     "static/media/title.png": "/doodlesNphotos/static/media/title.1baca74ca4b9657eaa9b.png",
-    "static/media/portrait.JPG": "/doodlesNphotos/static/media/portrait.022e74a4c55aecccda73.JPG",
     "index.html": "/doodlesNphotos/index.html",
     "main.1e7ff1eb.css.map": "/doodlesNphotos/static/css/main.1e7ff1eb.css.map",
-    "main.33a49b48.js.map": "/doodlesNphotos/static/js/main.33a49b48.js.map"
+    "main.82940e03.js.map": "/doodlesNphotos/static/js/main.82940e03.js.map"
   },
   "entrypoints": [
     "static/css/main.1e7ff1eb.css",
-    "static/js/main.33a49b48.js"
+    "static/js/main.82940e03.js"
   ]
 }
